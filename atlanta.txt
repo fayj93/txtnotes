@@ -1,0 +1,54 @@
+Job Description
+
+Software Developer
+Requisition ID: 00340597
+
+Description
+
+Sr Software Developer – SPS/Industrial Safety Apps
+
+Honeywell is transforming from a traditional industrial company to a contemporary digital industrial business, harnessing the power of cloud, big data/analytics, Internet of Things, and design thinking. There is no greater time for the progressive, forward-thinking, technology professional to join our organization. As we evolve our brand and business, you will play an integral role in advancing our product offerings, market presence and culture.
+
+
+You will be given the opportunity to take your proven experience and…
+Design and Develop innovative IoT/Software solutions for Industrial safety and workflow solutions.
+Work with agile software development team to evolve the Industrial Safety Platform and Ecosystem
+
+Qualifications
+
+YOU MUST HAVE
+
+High School Diploma or GED
+WE VALUE
+
+Bachelor’s degree in Computer Science, Computer Engineer or related field
+An analytical influencer with excellent communication and interpersonal skills and a positive attitude
+Experience in developing cloud enabled applications with multiple front ends using various development tools/systems (e.g., Angular JS, jQuery, Git, HTML, Java, .NET, JavaScript, CSS, C, C#, REST, SOAP, Cyber Security)
+Experience working on cloud technologies (e.g., Microsoft Azure, AWS)
+Knowledgeable about securing an end-to-end distributed system
+Familiarity with continuous integration and delivery tools/practices (e.g., Jenkins, Bamboo, Puppet, Chef)
+Experience with source control and bug tracking tools (e.g., JIRA)
+Experience with Agile software development methodologies
+An end-to-end system mindset, rather than being restricted by a particular field of Engineering like HW/SW/Tools, but an enthusiastic individual ready to deliver integrated solutions.
+Experience working on IoT and Connected ecosystems
+Knowledge of relational databases and SQL
+Experience executing Agile software methodology
+Knowledge of test-driven development
+Web and Mobile development skills (iOS, Android) is a plus
+
+INCLUDES
+• 10% travel with the possibility for worldwide travel
+• Continuous personal development
+
+LOCATION
+Atlanta, GA
+
+Honeywell is an equal opportunity employer. Qualified applicants will be considered without regard to age, race, creed, color, national origin, ancestry, marital status, affectional or sexual orientation, gender identity or expression, disability, nationality, sex, or veteran status.
+
+Job: Engineering
+Primary Location: USA-GA-Atlanta
+Education Level: High School Diploma/GED
+Travel: Yes, 10 % of the Time
+Relocation Available: Yes
+SBG: CORP
+University Relations Requisition: No
