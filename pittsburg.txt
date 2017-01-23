@@ -1,0 +1,87 @@
+ob Description
+
+Software Engineers (ALL CAREER LEVELS)
+Requisition ID: 00337955
+
+Description
+
+ 
+
+Software Engineers  [ALL CAREER LEVELS]
+
+Honeywell is hiring software engineers at all skill levels for our Product Development site in Pittsburgh, PA.
+
+Why you would want this role?
+
+This is an amazing opportunity for highly talented software engineers of all skill levels to join an Agile development environment. As a member of Honeywell’s new software focus, you will create some of the most exciting and innovative new software-based products that influence the daily lives of millions around the globe. As Honeywell continues to evolve as an innovative, responsible, world changing entity that people inherently want to be part of, our Product Development site allows us to create world-class software offerings and further influence our growth as a market leader in voice-assisted workflow solutions.  With you as a new member of our team, Honeywell International, a $40B industrial giant, will continue to propel this transformation into the world’s leading cyber industrial organization.
+
+
+
+Honeywell is transforming from a traditional industrial company to a contemporary digital industrial business, harnessing the power of voice interfaces, cloud, big data/analytics, mobile applications, Internet of things, and design thinking to its portfolio of Connected Solutions. We are leading change that brings value to our customers, partners, and shareholders through the creation of innovative software and data-driven products and services by utilizing the tools and processes proven successful by major software entities with a culture of high engagement, innovation, speed and impact. Honeywell is at the forefront of this change and we are looking for team members who thrive on challenging the status quo, embrace new technology and intelligent risk taking, have passion for innovation, are results-oriented and excel in a fast paced environment.
+
+
+
+What are we looking for?
+
+As a highly-motivated, top-notch software engineer you will have an opportunity to showcase your expertise in designing, developing, engineering, implementing and/or testing new and innovative software for our Workflow Solutions & Services business.  Honeywell has software engineering opportunities at all skill levels available in the areas of DevOps, speech recognition, cloud platforms, web applications, and embedded software.  With your passion for software development and engineering, we want to bring you together with like-minded, innovative SCRUM teams to work collaboratively throughout the product lifecycle as you produce state-of-the-art, world changing products.
+
+
+
+
+Qualifications
+
+You must have:
+
+At minimum a Bachelor's Degree
+
+
+What is our new Software Team seeking?
+
+An analytical influencer with excellent communication and interpersonal skills and a positive attitude
+Experience in developing and engineering cloud enabled applications with multiple front ends using various development tools/systems (e.g., Angular JS, jQuery, HTML, Java, JavaScript, CSS, C, C#, C++, Python, Perl)
+Experience with Voice Interfaces and Speech Recognition technologies
+Knowledge of Machine Learning principles and implementations
+Familiarity with continuous integration and delivery tools/practices (e.g., Jenkins, Bamboo, Puppet, Chef, Docker, VMware, Hyper-V)
+Experience with source control and bug tracking tools (e.g., JIRA, Git)
+Understanding of cloud infrastructure services (e.g., Microsoft Azure)
+Knowledge of relational databases and SQL
+Experience executing Agile software methodology
+Knowledge of test-driven development
+Mobile cross-platform development skills (e.g., iOS, Android, Win10)
+Experience with software security and understanding of basic cryptography
+
+
+What makes Honeywell cool?
+
+
+
+Honeywell’s innovative technologies are making our world cleaner and more sustainable, more secure, connected, energy efficient and productive. At Honeywell you have a unique opportunity to build world changing products with global reach backed up by a solid and respected entity that offers opportunities to leverage great people and great ideas to make a difference.
+
+
+
+What makes Honeywell Pittsburgh the place to be?
+
+World Recognized Universities
+Hub of Top High-Tech Companies
+Major League Sports and Cultural Arts
+Low Cost of Living
+Travel Convenience
+
+
+
+
+
+Pittsburgh’s innovative technologies are making our world cleaner and more sustainable, more secure, connected, energy efficient and productive. At Honeywell you have a unique opportunity to build world changing products with global reach backed up by a solid and respected entity that offers opportunities to leverage great people and great ideas to make a difference. Join our growing team of influencers and innovators - apply today!
+
+
+IND123
+
+Honeywell is an equal opportunity employer. Qualified applicants will be considered without regard to age, race, creed, color, national origin, ancestry, marital status, affectional or sexual orientation, gender identity or expression, disability, nationality, sex, or veteran status.
+
+Job: Engineering
+Primary Location: USA-PA-Pittsburgh
+Education Level: Bachelor's Degree
+Travel: Yes, 10 % of the Time
+Relocation Available: No
+SBG: SPS
+University Relations Requisition: No
